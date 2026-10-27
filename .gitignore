@@ -1,0 +1,31 @@
+# CLion / JetBrains
+.idea/
+
+# Build di CMake / CLion
+cmake-build-*/
+build/
+out/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# File compilati
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# Debug e file temporanei
+*.dSYM/
+*.pdb
+*.log
+*~
+.DS_Store
+Thumbs.db
